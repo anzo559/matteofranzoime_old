@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matteo Franzoi</title>
-    <link>/</link>
+    <link>https://matteofranzoi.netlify.com/</link>
     <description>Recent content on Matteo Franzoi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matteofranzoi.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chi sono</title>
-      <link>/about/</link>
+      <link>https://matteofranzoi.netlify.com/about/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://matteofranzoi.netlify.com/about/</guid>
       <description>Mi chiamo Matteo Franzoi, sono uno studente di ingegneria civile presso l&amp;rsquo;Università degli Studi di Trento. Ho molte passioni: dallo sport alla tecnologia.
 Lo sport che pratico lo si può capire dalla foto in alto: motocross. Sport che ho iniziato all&amp;rsquo;età di 7 anni e che mi ha accompagnato agonisticamente fino alla maggiore età. A 18 anni un brutto infortunio mi allontanato dalle gare per parecchio tempo, facendomi perdere quel desiderio di stare dietro al cancelletto di partenza.</description>
     </item>
     
     <item>
       <title>La mia laurea</title>
-      <link>/posts/my-degree/</link>
+      <link>https://matteofranzoi.netlify.com/posts/my-degree/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-degree/</guid>
+      <guid>https://matteofranzoi.netlify.com/posts/my-degree/</guid>
       <description>La mia famiglia   Vorrei dire due parole riguardo al mio percorso universitario:
 Ne ho sentite tante in questi anni: &amp;ldquo;ingegneria è una facoltà difficile&amp;rdquo;, &amp;ldquo;è normale laurearsi con 2-3 anni di ritardo&amp;rdquo;, ecc. Tutte cazzate di chi non ha la voglia e la determinazione di stare giorno e notte con la testa sui libri. Io, purtroppo, l&amp;rsquo;ho capito con più di due anni di ritardo e ne ho pagato le conseguenze.</description>
     </item>
