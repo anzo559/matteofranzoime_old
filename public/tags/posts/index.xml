@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matteo Franzoi</title>
-    <link>/tags/posts/</link>
+    <link>matteofranzoi.netlify.com/tags/posts/</link>
     <description>Recent content in Posts on Matteo Franzoi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="matteofranzoi.netlify.com/tags/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La mia laurea</title>
-      <link>/posts/my-degree/</link>
+      <link>matteofranzoi.netlify.com/posts/my-degree/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-degree/</guid>
+      <guid>matteofranzoi.netlify.com/posts/my-degree/</guid>
       <description>La mia famiglia   Vorrei dire due parole riguardo al mio percorso universitario:
 Ne ho sentite tante in questi anni: &amp;ldquo;ingegneria è una facoltà difficile&amp;rdquo;, &amp;ldquo;è normale laurearsi con 2-3 anni di ritardo&amp;rdquo;, ecc. Tutte cazzate di chi non ha la voglia e la determinazione di stare giorno e notte con la testa sui libri. Io, purtroppo, l&amp;rsquo;ho capito con più di due anni di ritardo e ne ho pagato le conseguenze.</description>
     </item>
