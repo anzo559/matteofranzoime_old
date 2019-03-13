@@ -3,42 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anzo559.github.io/about/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/about/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anzo559.github.io/posts/my-degree/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/posts/my-degree/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anzo559.github.io/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anzo559.github.io/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anzo559.github.io/posts/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anzo559.github.io/tags/posts/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/posts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anzo559.github.io/tags/</loc>
+    <loc>https://priceless-jepsen-041794.netlify.com/tags/posts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://priceless-jepsen-041794.netlify.com/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://priceless-jepsen-041794.netlify.com/posts/test/</loc>
   </url>
   
 </urlset>
