@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://priceless-jepsen-041794.netlify.com/posts/prova/</loc>
+    <lastmod>2019-03-13T15:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://priceless-jepsen-041794.netlify.com/about/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://priceless-jepsen-041794.netlify.com/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T15:47:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://priceless-jepsen-041794.netlify.com/posts/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T15:47:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,6 +48,12 @@
   
   <url>
     <loc>https://priceless-jepsen-041794.netlify.com/posts/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://priceless-jepsen-041794.netlify.com/tags/untagged/</loc>
+    <lastmod>2019-03-13T15:47:07+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
