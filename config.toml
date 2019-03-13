@@ -1,4 +1,4 @@
-baseURL = "matteofranzoi.netlify.com"
+baseURL = "posts"
 languageCode = "it-it"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
