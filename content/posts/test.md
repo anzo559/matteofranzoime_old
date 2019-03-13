@@ -1,7 +1,8 @@
 ---
 title: "Test"
-tag: ["posts"]
-draft: "false"
+tags: ["posts"]
+draft: false
+toc: false
 ---
 
 Lipsum diocane

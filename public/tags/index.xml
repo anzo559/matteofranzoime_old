@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 15:47:07 +0100</lastBuildDate>
     
 	<atom:link href="https://priceless-jepsen-041794.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,9 @@
     <item>
       <title>Posts</title>
       <link>https://priceless-jepsen-041794.netlify.com/tags/posts/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://priceless-jepsen-041794.netlify.com/tags/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Untagged</title>
-      <link>https://priceless-jepsen-041794.netlify.com/tags/untagged/</link>
       <pubDate>Wed, 13 Mar 2019 15:47:07 +0100</pubDate>
       
-      <guid>https://priceless-jepsen-041794.netlify.com/tags/untagged/</guid>
+      <guid>https://priceless-jepsen-041794.netlify.com/tags/posts/</guid>
       <description></description>
     </item>
     
