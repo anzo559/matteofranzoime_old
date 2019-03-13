@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matteo Franzoi</title>
-    <link>matteofranzoi.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Matteo Franzoi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="matteofranzoi.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>matteofranzoi.netlify.com/tags/posts/</link>
+      <link>/tags/posts/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>matteofranzoi.netlify.com/tags/posts/</guid>
+      <guid>/tags/posts/</guid>
       <description></description>
     </item>
     
