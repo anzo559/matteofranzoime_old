@@ -2,24 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Matteo Franzoi</title>
-		<link>https://matteofranzoi.netlify.com/posts/</link>
+		<link>https://anzo559.github.io/post/</link>
 		<description>Recent content in Posts on Matteo Franzoi</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>it-it</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://matteofranzoi.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Wed, 13 Mar 2019 21:58:49 +0100</lastBuildDate>
+		<atom:link href="https://anzo559.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>La Teoria dei Fili</title>
+			<link>https://anzo559.github.io/post/my-bachelor-thesis/</link>
+			<pubDate>Wed, 13 Mar 2019 21:58:49 +0100</pubDate>
+			
+			<guid>https://anzo559.github.io/post/my-bachelor-thesis/</guid>
+			<description>L&amp;rsquo;elaborato che ho esposto durante la mia laurea tratta la teoria dei fili con elementi di storia e applicazione alle strutture civili.
+In questa pagina descriverò brevemente i concetti contenuti nella tesi che potete visualizzare e scaricare gratuitamente a questo link.
+Il documento è stato redetto completamente in LaTeX e TiKZ. Il codice sorgente è disponibile in formato compresso al seguente link.
+Prima di iniziare devo ringraziare il Prof. Stefano Siboni che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di scrittura.</description>
+			<content type="html"><![CDATA[
+
+<p>L&rsquo;elaborato che ho esposto <a href="/post/my-degree">durante la mia laurea</a> tratta la <strong>teoria dei fili</strong> con elementi di storia e applicazione alle strutture civili.</p>
+
+<p>In questa pagina descriverò brevemente i concetti contenuti nella tesi che potete visualizzare e scaricare gratuitamente a <a href="https://osf.io/9zgdc/" target="_blank">questo link</a>.</p>
+
+<p>Il documento è stato redetto completamente in <code>LaTeX</code> e <code>TiKZ</code>. Il codice sorgente è disponibile in formato compresso al <a href="https://osf.io/prf76/" target="_blank">seguente link</a>.</p>
+
+<p>Prima di iniziare devo ringraziare il <strong><a href="http://www.ing.unitn.it/~siboni/" target="_blank">Prof. Stefano Siboni</a></strong> che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di scrittura.</p>
+
+<h2 id="la-fune">La Fune</h2>
+
+<p>La fune è uno degli elementi costruttivi più utilizzato nella storia, almeno in campo civile.<br />
+Nonostante i primi avvistamenti di fili di rame risalgano al 700 a.C., le prime applicazioni della fune avvengono durante il <em>XV</em> secolo con la comparsa dei primi <strong>ponti inca</strong> e dei famosi <strong>ponti tibetani</strong>.<br />
+Nonostante lo stesso periodo storico in cui sono stati sviluppati, questi ponti sono radicalmente differenti. Mentre in sudamerica gli <em>inca</em> costruivano le funi intrecciando delle corde, in Tibet il fisico e ingegnere <em>Tangtong Gyalpo</em> utilizzò delle lunghe catene in ghisa per comporre la struttura portante di quello che sarebbe diventato il primo ponte tibetano.</p>
+
+<figure>
+    <img src="/images/Ponte_Inca.jpg" width="100%"/> <figcaption>
+            <h4>Uno dei pochi ponti inca sopravvissuti</h4>
+        </figcaption>
+</figure>
+
+
+<p>A partire dalla rivoluzione industriale si ha un&rsquo;evoluzione della fune, che diventa un elemento composito formato dalla posa, in diverse configurazioni, di fili di acciaio. Applicando queste nuove tecnologie alle strutture civili, in particolare ai ponti, si ottengono delle costruzioni snelle, leggere ed estremamente funzionali.</p>
+
+<figure>
+    <img src="/images/Ponte_Tibetano_Oggi.jpg" width="100%"/> <figcaption>
+            <h4>Ponte tibetano moderno</h4>
+        </figcaption>
+</figure>
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<!--<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    // Fix <code> tags after MathJax finishes running. This is a
+    // hack to overcome a shortcoming of Markdown. Discussion at
+    // https://github.com/mojombo/jekyll/issues/199
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>-->
+
+<h2 id="la-teoria-dei-fili">La Teoria dei Fili</h2>
+
+<p>In <i>teoria dei fili</i> per fune si intende una curva regolare o biregolare di classe almeno <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msup><mi>C</mi><mn>2</mn></msup><annotation encoding="application/x-tex">C^2</annotation></semantics></math> e di lunghezza assegnata.</p>
+
+<p>Per semplicità di calcolo, si ipotizza che la curva sia <strong>inestensibile</strong> e <strong>perfettamente flessibile</strong>. La prima condizione impone che non vi siano deformazioni lungo l&rsquo;asse della fune, descritto dall&rsquo;ascissa curvilinea <code>s</code>, il che equivale a porre la <em>rigidezza assiale</em> del filo <strong>infinita</strong>
+$$EA\to\infty$$</p>
+
+<p>La condizione di <em>perfetta flessibilità</em> si può descrivere come l&rsquo;arbitrarietà del valore di curvatura della fune, implicando una rigidezza flessionale nulla
+$$EI\to 0$$</p>
+
+<p>Essendo il filo inestensibile e perfettamente flessibile, è facile capire che l&rsquo;unica direzione delle forze esterne attive applicabili è quella parallela all&rsquo;asse della fune e di valore positivo (<strong>trazione</strong>).</p>
+
+<p>Dalle basi appena poste sulla teoria dei fili, applicando la meccanica classica a un tratto di filo finito soggetto a un sistema di forze distribuito, è possibile ottenere la <strong>equazione indefinita di equilibrio</strong> scritta in termini vettoriali come
+$$ \frac{d\underline{T}}{ds}(s) + \underline{f}(s) = 0 $$
+che risulta essere un sistema di 3 equazioni differenziali in 3 incognite (le 3 componenti di <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><munder><mi>T</mi><mo accent="false">̲</mo></munder><annotation encoding="application/x-tex">\underline{T}</annotation></semantics></math>).</p></p>
+
+<p>Applicando delle opportune <em>condizioni iniziali</em> si ottiene il <strong>Problema di Cauchy</strong> che ammette un&rsquo;unica soluzione definita dal <code>teorema di esistenza e unicità della soluzione</code> applicato a un <strong>dominio aperto</strong>.</p>
+
+<p>Discorso diverso è nel caso di imposizione delle condizioni al contorno. Per le condizioni al contorno, infatti, non esiste alcun teorema che assicuri l&rsquo;esistenza e l&rsquo;unicità della soluzione.<br />
+E` comunque possibile risolvere il sistema di equazioni differenziali impiegando dei metodi numerici, non sapendo a priori se la soluzione effettivamente esiste o è unica.</p>
+
+<p>Il terzo e ultimo capitolo del documento riguarda l&rsquo;applicazione della teoria dei fili a problemi in ambito civile. In particolare sono stati studiati i seguenti casi:
+- equazione dei ponti sospesi;
+- catenaria omogenea;
+- filo soggetto a forze distribuite nulle;
+- filo soggetto a forze concentrate.</p>
+
+<p>Una volta ricavata l&rsquo;equazione indefinita di equilibrio dalla teoria dei fili(<strong>Capitolo 2</strong>) è sufficiente applicarla ai differenti casi, ricavando in molti casi soluzioni molto interessanti.</p>
+
+<p>Consiglio al lettore, se interessato, di leggere l&rsquo;elaborato e, nell&rsquo;esigenza di eventuali dubbi o discussioni, di scrivere un mail all&rsquo;indirizzo <strong><a href="mailto:matteo.franzoi-1@unitn.it" target="_blank">matteo.franzoi-1@unitn.it</a></strong>.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>La mia laurea</title>
-			<link>https://matteofranzoi.netlify.com/posts/my-degree/</link>
+			<link>https://anzo559.github.io/post/my-degree/</link>
 			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
 			
-			<guid>https://matteofranzoi.netlify.com/posts/my-degree/</guid>
+			<guid>https://anzo559.github.io/post/my-degree/</guid>
 			<description>La mia famiglia   Vorrei dire due parole riguardo al mio percorso universitario:
 Ne ho sentite tante in questi anni: &amp;ldquo;ingegneria è una facoltà difficile&amp;rdquo;, &amp;ldquo;è normale laurearsi con 2-3 anni di ritardo&amp;rdquo;, ecc. Tutte cazzate di chi non ha la voglia e la determinazione di stare giorno e notte con la testa sui libri. Io, purtroppo, l&amp;rsquo;ho capito con più di due anni di ritardo e ne ho pagato le conseguenze.</description>
 			<content type="html"><![CDATA[<figure>
-    <img src="/laurea_01.jpg"/> <figcaption>
+    <img src="/images/laurea_01.jpg"/> <figcaption>
             <h4>La mia famiglia</h4>
         </figcaption>
 </figure>
@@ -34,7 +138,7 @@ Per recuperare il tempo perso ho dovuto studiare per mesi e mesi, dimenticandomi
 Non dico che sia giusto quello che ho fatto, ma cazzo se mi è piaciuto. L&rsquo;adrenalina che si ha il giorno di un orale difficile è paragonabile a stare dietro al cancelletto di partenza.</p>
 
 <figure>
-    <img src="/laurea_02.jpg"/> <figcaption>
+    <img src="/images/laurea_02.jpg"/> <figcaption>
             <h4>Che vita sarebbe senza amici</h4>
         </figcaption>
 </figure>

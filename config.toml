@@ -1,4 +1,4 @@
-baseURL = "https://matteofranzoi.netlify.com"
+baseURL = "https://anzo559.github.io"
 languageCode = "it-it"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
@@ -31,7 +31,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   # description = ""
-  images = ["MF.jpg"]
+  images = ["images/mf.jpg"]
   themeColor = "#494f5c"
 
   homeSubtitle = ""
@@ -39,7 +39,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/anzo559/anzo559.github.io/commit/"
+  gitUrl = "https://github.com/anzo559/anzo559.github.io/commit/"
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
@@ -67,7 +67,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Post"
-    url = "tags/posts/"
+    url = "tags/post/"
     weight = 10
 
   [[menu.main]]

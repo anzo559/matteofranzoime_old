@@ -1,8 +1,10 @@
-﻿+++	
+﻿+++
 title = "Chi sono"
 date = "2019-03-05"
+tags = ["about"]
+draft = false
 +++
-{{< figure src="/photo_01.jpg" width="100%">}}
+{{< figure src="/images/photo_01.jpg" width="100%">}}
 
 Mi chiamo Matteo Franzoi, sono uno studente di ingegneria civile presso l'Università degli Studi di Trento.
 Ho molte passioni: dallo sport alla tecnologia.
@@ -16,4 +18,8 @@ Interesse che ho coltivato poi con il OnePlus One, uno degli smartphone più ada
 Ma la mia passione per la tecnologia non si limita solo agli smartphone. Spazia dalla programmazione in `C`, `Phyton`, `Matlab` a `LaTeX` e `TiKZ` passando da `HTML` e `CSS`.
 Mentre i linguaggi `C` e `Phyton` li ho studiati in ambito accademico, `LaTeX` e `TiKZ` li ho approfonditi quando ho sentito la necessità di redarre dei testi sia belli da vedere che effettivamente funzionali, abbandonando del tutto le suite office.
 
-`HTML` e `CSS` derivano invece da alcuni progetti personali che sto portanto avanti, uno di questi è il sito del team cui faccio parte http://teampaniza.it, nonché questo sito.
+`HTML` e `CSS` derivano invece da alcuni progetti personali che sto portanto avanti, uno di questi è il sito del team cui faccio parte,
+<p align="center">
+    http://teampaniza.it
+</p>
+nonché questo sito.

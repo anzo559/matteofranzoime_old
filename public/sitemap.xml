@@ -3,40 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matteofranzoi.netlify.com/about/</loc>
+    <loc>https://anzo559.github.io/post/my-bachelor-thesis/</loc>
+    <lastmod>2019-03-13T21:58:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anzo559.github.io/about/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matteofranzoi.netlify.com/posts/my-degree/</loc>
+    <loc>https://anzo559.github.io/post/my-degree/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matteofranzoi.netlify.com/</loc>
+    <loc>https://anzo559.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteofranzoi.netlify.com/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matteofranzoi.netlify.com/posts/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matteofranzoi.netlify.com/tags/posts/</loc>
+    <loc>https://anzo559.github.io/tags/about/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteofranzoi.netlify.com/tags/</loc>
+    <loc>https://anzo559.github.io/</loc>
+    <lastmod>2019-03-13T21:58:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anzo559.github.io/tags/post/</loc>
+    <lastmod>2019-03-13T21:58:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anzo559.github.io/post/</loc>
+    <lastmod>2019-03-13T21:58:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anzo559.github.io/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
