@@ -10,9 +10,9 @@ L'elaborato che ho esposto [durante la mia laurea](/post/my-degree) tratta la **
 
 In questa pagina descriverò brevemente i concetti contenuti nella tesi che potete visualizzare e scaricare gratuitamente a [questo link](https://osf.io/9zgdc/).
 
-Il documento è stato redetto completamente in `LaTeX` e `TiKZ`. Il codice sorgente è disponibile in formato compresso al [seguente link](https://osf.io/prf76/).
+Il documento è stato redatto completamente in `LaTeX` e `TiKZ`. Il codice sorgente è disponibile in formato compresso al [seguente link](https://osf.io/prf76/).
 
-Prima di iniziare devo ringraziare il **[Prof. Stefano Siboni](http://www.ing.unitn.it/~siboni/)** che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di scrittura.
+Prima di iniziare devo ringraziare il **[Prof. Stefano Siboni](http://www.ing.unitn.it/~siboni/)** che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di stesura della tesi.
 
 ## La Fune
 La fune è uno degli elementi costruttivi più utilizzato nella storia, almeno in campo civile.  
@@ -64,7 +64,7 @@ $$EA\to\infty$$
 La condizione di *perfetta flessibilità* si può descrivere come l'arbitrarietà del valore di curvatura della fune, implicando una rigidezza flessionale nulla
 $$EI\to 0$$
 
-Essendo il filo inestensibile e perfettamente flessibile, è facile capire che l'unica direzione delle forze esterne attive applicabili è quella parallela all'asse della fune e di valore positivo (**trazione**).
+Essendo il filo inestensibile e perfettamente flessibile, è facile capire che l'unica direzione delle forze esterne attive applicabili è quella parallela all'asse della fune e di verso uscente (**trazione**).
 
 Dalle basi appena poste sulla teoria dei fili, applicando la meccanica classica a un tratto di filo finito soggetto a un sistema di forze distribuito, è possibile ottenere la **equazione indefinita di equilibrio** scritta in termini vettoriali come
 $$ \frac{d\underline{T}}{ds}(s) + \underline{f}(s) = 0 $$
@@ -73,14 +73,16 @@ che risulta essere un sistema di 3 equazioni differenziali in 3 incognite (le 3 
 Applicando delle opportune *condizioni iniziali* si ottiene il **Problema di Cauchy** che ammette un'unica soluzione definita dal `teorema di esistenza e unicità della soluzione` applicato a un **dominio aperto**.
 
 Discorso diverso è nel caso di imposizione delle condizioni al contorno. Per le condizioni al contorno, infatti, non esiste alcun teorema che assicuri l'esistenza e l'unicità della soluzione.  
-E` comunque possibile risolvere il sistema di equazioni differenziali impiegando dei metodi numerici, non sapendo a priori se la soluzione effettivamente esiste o è unica.
+E` comunque possibile risolvere il sistema di equazioni differenziali impiegando dei metodi numerici, non sapendo a priori se la soluzione effettivamente esista.
 
 Il terzo e ultimo capitolo del documento riguarda l'applicazione della teoria dei fili a problemi in ambito civile. In particolare sono stati studiati i seguenti casi:
-- equazione dei ponti sospesi;
-- catenaria omogenea;
-- filo soggetto a forze distribuite nulle;
-- filo soggetto a forze concentrate.
 
-Una volta ricavata l'equazione indefinita di equilibrio dalla teoria dei fili(**Capitolo 2**) è sufficiente applicarla ai differenti casi, ricavando in molti casi soluzioni molto interessanti.
+* equazione dei ponti sospesi;
+* catenaria omogenea;
+* filo soggetto a forze distribuite nulle;
+* filo soggetto a forze concentrate.
 
-Consiglio al lettore, se interessato, di leggere l'elaborato e, nell'esigenza di eventuali dubbi o discussioni, di scrivere un mail all'indirizzo **[matteo.franzoi-1@unitn.it](mailto:matteo.franzoi-1@unitn.it)**.
+Una volta ricavata l'equazione indefinita di equilibrio dalla teoria dei fili (**Capitolo 2**) è sufficiente applicarla ai differenti casi, ricavando soluzioni molto interessanti.
+
+Consiglio al lettore, se interessato, di leggere l'elaborato e, nel caso avesse dubbi o volesse discutere di argomenti contenuti nell'elaborato, di scrivere un mail all'indirizzo  
+**[matteo.franzoi-1@unitn.it](mailto:matteo.franzoi-1@unitn.it)**
