@@ -39,7 +39,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  gitUrl = "https://github.com/anzo559/anzo559.github.io/commit/"
+  gitUrl = "https://github.com/anzo559/website/commit/"
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
