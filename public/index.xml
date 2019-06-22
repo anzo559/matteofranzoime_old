@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 13 Mar 2019 21:58:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 00:22:59 +0200</lastBuildDate>
     
 	<atom:link href="https://matteofranzoi.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>507 Movements</title>
+      <link>https://matteofranzoi.netlify.com/post/507-movements/</link>
+      <pubDate>Fri, 12 Apr 2019 00:22:59 +0200</pubDate>
+      
+      <guid>https://matteofranzoi.netlify.com/post/507-movements/</guid>
+      <description>Qualche settimana fa, grazie a Riccardo Palombo, ho scoperto questo magnifico portale, perfetto per i fanatici della meccanica (come il sottoscritto): 507 Movements.
+Il progetto da cui nasce deriva dall&amp;rsquo;omonimo libro pubblicato nel 1868 da Henry T. Brown. Fu proprio lui a comporre per la prima volta un testo che comprendeva al suo interno tutti, o quasi, i movimenti mecccanici e idraulici noti fino ad allora.
+Matt Keveney, ideatore del portale 507 Movements, ha scannerizzato e ovviamente sistemato ogni immagine della ristampa del 1908 del testo di Henry Brown.</description>
+    </item>
     
     <item>
       <title>La Teoria dei Fili</title>
@@ -20,8 +31,8 @@
       <guid>https://matteofranzoi.netlify.com/post/my-bachelor-thesis/</guid>
       <description>L&amp;rsquo;elaborato che ho esposto durante la mia laurea tratta la teoria dei fili con elementi di storia e applicazione alle strutture civili.
 In questa pagina descriverò brevemente i concetti contenuti nella tesi che potete visualizzare e scaricare gratuitamente a questo link.
-Il documento è stato redetto completamente in LaTeX e TiKZ. Il codice sorgente è disponibile in formato compresso al seguente link.
-Prima di iniziare devo ringraziare il Prof. Stefano Siboni che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di scrittura.</description>
+Il documento è stato redatto completamente in LaTeX e TiKZ. Il codice sorgente è disponibile in formato compresso al seguente link.
+Prima di iniziare devo ringraziare il Prof. Stefano Siboni che è stato disponibile per ogni dubbio e chiarimento lungo tutto il periodo di stesura della tesi.</description>
     </item>
     
     <item>
