@@ -25,18 +25,6 @@ Secondo la mio opinione, quanto descritto è quello che succede durante i corsi 
 
 Ma non è questo l'argomento che voglio trattare quest'oggi.  
 
-Il titolo descrive alla perfezione ciò che è presente nelle righe successive:
-
-----------
-
-<div style="font-family:serif; margin:auto; width:50%; text-align:left; text-transform:uppercase; color:rgb(110,110,110)">
-<h3>
- "è possibile rappresentare una matrice attraverso un grafo?" <br/>
-La risposta è "si, si può!"</h3>
-</div>
-
------------
-
  <h3 style="text-transform:uppercase">
 Ma che cosa è un grafo?
  </h3>
@@ -57,6 +45,26 @@ $$
  $$
 E = \\{e_1, e_2, \dots, e_t\\}
  $$
+Il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\) viene scritto come \\(e_k = (v_i, v_j)\\).
 
+La _teoria dei grafi_ vede la luce per la prima volta nel 1736, grazie a __Eulero__. Il matematico svizzero, infatti, risolse il problema dei _sette ponti di Königsberg_ utilizzando quella che sarebbe poi diventata la teoria dei grafi. Eulero si chiedeva se fosse possibile partire e arrivare nello stesso punto della città attraversando tutti i ponti una sola volta.  
+Grazie alle basi poste da Eulero, la teoria dei grafi si è evoluta ed è tutt'ora impiegata nella descrizione e nella risoluzione di _reti di acquedotti_ o in algoritmi per il calcolo del percorso (chiuso) più breve tra tutte le città del mondo (più info sulla soluzione potete trovarle [qui](http://www.math.uwaterloo.ca/tsp/world/)).
 
- 
+La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che non esporrò, per non tediarvi con argomentazioni facilmente reperibili altrove.
+
+<h3 style="text-transform:uppercase">Ma quindi?</h3>
+
+Il titolo descrive alla perfezione ciò che è presente nelle righe che seguono: "è possibile rappresentare una matrice attraverso un grafo?"  
+La risposta è "sì, si può!"  
+E non solo: è anche possibile derivare una matrice da un grafo.
+
+----------
+
+<div style="font-family:serif; margin:auto; width:50%; text-align:left; text-transform:uppercase; color:rgb(110,110,110)">
+<h3>
+ "è possibile rappresentare una matrice attraverso un grafo?" <br/>
+La risposta è "sì, si può!"</h3>
+</div>
+
+-----------
+to be continued...
