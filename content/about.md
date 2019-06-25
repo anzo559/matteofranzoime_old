@@ -16,7 +16,7 @@ La passione per la tecnologia risale invece al mio primo smartphone, un telefono
 Interesse che ho coltivato poi con il OnePlus One, uno degli smartphone più adatti per gli "smanettoni".
 
 Ma la mia passione per la tecnologia non si limita solo agli smartphone. Spazia dalla programmazione in `C`, `Phyton`, `Matlab` a `LaTeX` e `TiKZ` passando da `HTML` e `CSS`.
-Mentre i linguaggi `C` e `Phyton` li ho studiati in ambito accademico, `LaTeX` e `TiKZ` li ho approfonditi quando ho sentito la necessità di redarre dei testi sia belli da vedere che effettivamente funzionali, abbandonando del tutto le suite office.
+Mentre i linguaggi `C` e `Python` li ho studiati in ambito accademico, `LaTeX` e `TiKZ` li ho approfonditi quando ho sentito la necessità di redarre dei testi sia belli da vedere che effettivamente funzionali, abbandonando del tutto le suite office.
 
 `HTML` e `CSS` derivano invece da alcuni progetti personali che sto portanto avanti, uno di questi è il sito del team cui faccio parte,
 <p align="center">

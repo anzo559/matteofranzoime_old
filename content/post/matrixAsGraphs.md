@@ -21,7 +21,7 @@ Mat3ma nasce nel 2015 dall'idea di _Tai-Danae Bradley_, una dottoranda in matema
 
 Come dottore in ingegneria (anche se mi fa strano dirlo :D) posso affermare che, nonostante mastichi abbastanza bene la matematica, quest'ultima viene utilizzata dagli ingegneri principalmente come mezzo per arrivare ad una soluzione (talvolta) soddisfacente. Questo fatto fa si che veniamo spesso derisi da fisici e matematici, in quanto _"ignoranti"_ nella materia più sofisticata del mondo.  
 Come se non bastasse, con l'avvento del nuovo ordinamento gli studenti sono costretti ad una `corsa contro il tempo e contro i crediti` che spesso porta gli insegnanti a trascurare - o non approfondire - dettagli significativi.  
-Secondo la mio opinione, quanto descritto è quello che succede durante i corsi di _analisi matematica_ ad Ingegneria. Non dico che la colpa sia da attribuire solamente al sistema universitario, anzi, sono convinto che molti studenti __non vogliano__ affatto studiare argomenti complessi come quelli matematici.
+Secondo la mias opinione, quanto descritto è quello che succede durante i corsi di _analisi matematica_ ad Ingegneria. Non dico che la colpa sia da attribuire solamente al sistema universitario, anzi, sono convinto che molti studenti __non vogliano__ affatto studiare argomenti complessi come quelli matematici.
 
 Ma non è questo l'argomento che voglio trattare quest'oggi.  
 
