@@ -1,0 +1,16 @@
+.caption {
+  text-align: center;
+  font-size: .8em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+ .spy  {
+  overflow: hidden;
+  font-family: serif;
+  margin:auto;
+  width: 50%;
+  text-align: left;
+  text-transform: uppercase;
+  color: #222f3e;
+}
