@@ -14,6 +14,8 @@ MathJax.Hub.Config({
 </script>
 <script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
 
+
+
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
 
 Qualche tempo fa, grazie al [blog](https://abouthydrology.blogspot.com) del _Prof. Riccardo Rigon_ - professore ordinario presso il Dipartimento di Ingegneria Civile, Ambientale e Meccanica di Trento, sono venuto a conoscenza di [Math3ma](https://math3ma.com).  
@@ -32,7 +34,7 @@ Ma che cosa è un grafo?
  </h3>
 
  [![Tipologie di grafo](/images/graph_type.jpeg)](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
- <p align="center"><strong>Tipologie di grafo</strong> | <i>Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
+ <p class='caption'>Tipologie di grafo | Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
 
  Un __grafo__ è un insieme di `n` nodi tra loro connessi da `t` tratti (o archi) che possono essere _orientati_ (descritti da una direzione e un verso) o non orientati (di verso arbitrario).  
  Un grafo si differenzia da un "albero" (`tree`) principalmente perché quest'ultimo è definito da un verso; mi spiego meglio: in un albero, *ogni vertice ha un nodo precedente e un nodo successivo* che definiscono il *verso* dell'albero. Inoltre, ogni nodo può avere solamente un nodo, passatemi il termine, "padre" (o genitore). Esiste quindi *uno e uno solo* nodo di partenza (`root`); esiste, quindi, una gerarchia per i nodi. Questo non accade in un grafo, che per come è definito non ha alcun nodo _root_.  
@@ -52,8 +54,10 @@ E = \\{e_1, e_2, \dots, e_t\\}
  $$
 
 ![Unordered graph](/images/unordered-graph.jpg)
+<p class='caption'>Esempio di grafo non ordinato</p>
 
 ![Ordered graph](/images/ordered-graph.jpg)
+<p class='caption'>Esempio di grafo ordinato</p>
 
 Il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\) viene scritto come \\(e_k = (v_i, v_j)\\).
 
@@ -70,7 +74,7 @@ E non solo: è anche possibile derivare una matrice da un grafo.
 
 ----------
 
-<div style="font-family:serif; margin:auto; width:50%; text-align:left; text-transform:uppercase; color:rgb(110,110,110)">
+<div class='spy'>
 <h3>
  "è possibile rappresentare una matrice attraverso un grafo?" <br/>
 La risposta è "sì, si può!"</h3>

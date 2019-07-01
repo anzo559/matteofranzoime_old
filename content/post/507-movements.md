@@ -13,13 +13,13 @@ Il progetto da cui nasce deriva dall'omonimo libro pubblicato nel **1868** da `H
 Matt Keveney, ideatore del portale `507 Movements`, ha scannerizzato e ovviamente sistemato ogni immagine della ristampa del 1908 del testo di Henry Brown. Molte di queste immagini, grazie al lavoro di Matt, sono ora disponibili anche come __animazioni__, attraverso alcune librerie di JavaScript e al codice HTML.
 
 [![No. 228 - Chain and Pulley](/images/mm_228.png)](http://507movements.com/mm_228.html)
-<p align="center"><strong>No. 228 - Chain and Pulley</strong> | <i>Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
+<p class='caption'>No. 228 - Chain and Pulley| Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
 
 A causa dell'enorme mole di lavoro necessaria, non tutti i movimenti sono animati. È comunque facile distinguerli grazie al fatto che le immagini animate sono _colorate_, mentre le scansioni sono in bianco e nero. Anche per le animazioni è presente la corrispondente immagine statica.
 
 
 [![No. 90](/images/mm_090.png)](http://507movements.com/mm_090.html)
-<p align="center"><strong>No. 90</strong> | <i>Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
+<p class='caption'>No. 90 | Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
 
 Le immagini statiche sono liberamente condivisibili (citandone la fonte!) mentre le animazioni sono tutt'oggi sotto il copyright di 507 Movements e non possono essere riprodotte o utilizzate senza il consenso del proprietario.
 

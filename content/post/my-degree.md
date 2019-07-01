@@ -7,7 +7,8 @@ tags: ["post"]
 author: "anzo559"
 ---
 
-{{<figure src="/images/laurea_01.jpg" title="La mia famiglia">}}
+<img src="/images/laurea_01.jpg">
+<p class='caption'>La mia famiglia</p>
 
 Vorrei dire due parole riguardo al mio percorso universitario:
 
@@ -17,7 +18,8 @@ Ho sempre nascosto la mia nullafacenza dietro la solita scusa della difficoltà 
 Per recuperare il tempo perso ho dovuto studiare per mesi e mesi, dimenticandomi di andare in vacanza l'estate e di andare in moto tutte le settimane, trascurando amici e relazioni.
 Non dico che sia giusto quello che ho fatto, ma cazzo se mi è piaciuto. L'adrenalina che si ha il giorno di un orale difficile è paragonabile a stare dietro al cancelletto di partenza.
 
-{{<figure src="/images/laurea_02.jpg" title="Scommetto che non avete amici migliori dei miei">}}
+<img src='/images/laurea_02.jpg'>
+<p class='caption'>I miei amici</p>
 
 Chiudo il mio non-discorso ringraziando tutti quelli che mi sono stati vicini in questi anni: ovviamente i miei genitori, senza cui tutto questo non sarebbe stato possibile, mia sorella, i miei amici, i miei colleghi di corso, i docenti, ma soprattutto ringrazio me stesso per il lavoro svolto. 
 
