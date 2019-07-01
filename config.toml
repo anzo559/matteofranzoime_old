@@ -28,7 +28,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  customCSS = ["css/styles.css"]
+  customCSS = ["/css/styles.css"]
 
   # Metadata mostly used in document's head
   # description = ""

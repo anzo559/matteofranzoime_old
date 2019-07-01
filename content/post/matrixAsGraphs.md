@@ -13,9 +13,10 @@ MathJax.Hub.Config({
 });
 </script>
 <script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
-<head>
-  <link rel='stylesheet' href='/css/style.css'>
-</head>
+
+<!--<head>
+  <link rel='stylesheet' href='/css/style.css'/>
+</head>-->
 
 
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
