@@ -19,9 +19,11 @@ Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premess
 Qualche tempo fa, grazie al [blog](https://abouthydrology.blogspot.com) del _Prof. Riccardo Rigon_ - professore ordinario presso il Dipartimento di Ingegneria Civile, Ambientale e Meccanica di Trento, sono venuto a conoscenza di [Math3ma](https://math3ma.com).  
 Mat3ma nasce nel 2015 dall'idea di _Tai-Danae Bradley_, una dottoranda in matematica presso il City University of New York, che si occupa principalmente di fisica quantistica e teorica.
 
-Come dottore in ingegneria (anche se mi fa strano dirlo :D) posso affermare che, nonostante mastichi abbastanza bene la matematica, quest'ultima viene utilizzata dagli ingegneri principalmente come mezzo per arrivare ad una soluzione (talvolta) soddisfacente. Questo fatto fa si che veniamo spesso derisi da fisici e matematici, in quanto _"ignoranti"_ nella materia più sofisticata del mondo.  
+Come dottore in ingegneria (anche se mi fa strano dirlo :D) posso affermare che, nonostante mastichi abbastanza bene la matematica, quest'ultima viene utilizzata dagli ingegneri principalmente come mezzo per arrivare ad una soluzione (talvolta) soddisfacente. Questo fatto fa si che veniamo spesso derisi da fisici e matematici, in quanto _"ignoranti"_ nella materia più sofisticata del mondo.
+<!--  
 Come se non bastasse, con l'avvento del nuovo ordinamento gli studenti sono costretti ad una `corsa contro il tempo e contro i crediti` che spesso porta gli insegnanti a trascurare - o non approfondire - dettagli significativi.  
-Secondo la mias opinione, quanto descritto è quello che succede durante i corsi di _analisi matematica_ ad Ingegneria. Non dico che la colpa sia da attribuire solamente al sistema universitario, anzi, sono convinto che molti studenti __non vogliano__ affatto studiare argomenti complessi come quelli matematici.
+Secondo la mia opinione, quanto descritto è quello che succede durante i corsi di _analisi matematica_ ad Ingegneria. Non dico che la colpa sia da attribuire solamente al sistema universitario, anzi, sono convinto che molti studenti __non vogliano__ affatto studiare argomenti complessi come quelli matematici.
+-->
 
 Ma non è questo l'argomento che voglio trattare quest'oggi.  
 
@@ -33,6 +35,9 @@ Ma che cosa è un grafo?
  <p align="center"><strong>Tipologie di grafo</strong> | <i>Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
 
  Un __grafo__ è un insieme di `n` nodi tra loro connessi da `t` tratti (o archi) che possono essere _orientati_ (descritti da una direzione e un verso) o non orientati (di verso arbitrario).  
+ Un grafo si differenzia da un "albero" (`tree`) principalmente perché quest'ultimo è definito da un verso; mi spiego meglio: in un albero, *ogni vertice ha un nodo precedente e un nodo successivo* che definiscono il *verso* dell'albero. Inoltre, ogni nodo può avere solamente un nodo, passatemi il termine, "padre" (o genitore). Esiste quindi *uno e uno solo* nodo di partenza (`root`); esiste, quindi, una gerarchia per i nodi. Questo non accade in un grafo, che per come è definito non ha alcun nodo _root_.  
+ Elemento che lega le due tipologie appena descritte è il numero di nodi: infatti, un grafo - per essere tale - deve essere formato da **almeno un nodo**, come un albero deve avere come minimo un vertice iniziale.
+
  Formalmente, un grafo è una coppia ordinata 
  $$
     G = (V, E)
@@ -45,6 +50,11 @@ $$
  $$
 E = \\{e_1, e_2, \dots, e_t\\}
  $$
+
+![Unordered graph](/images/unordered-graph.jpg)
+
+![Ordered graph](/images/ordered-graph.jpg)
+
 Il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\) viene scritto come \\(e_k = (v_i, v_j)\\).
 
 La _teoria dei grafi_ vede la luce per la prima volta nel 1736, grazie a __Eulero__. Il matematico svizzero, infatti, risolse il problema dei _sette ponti di Königsberg_ utilizzando quella che sarebbe poi diventata la teoria dei grafi. Eulero si chiedeva se fosse possibile partire e arrivare nello stesso punto della città attraversando tutti i ponti una sola volta.  
