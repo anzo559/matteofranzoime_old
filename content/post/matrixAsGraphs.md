@@ -1,14 +1,11 @@
 ---
-title: "E` possibile rappresentare una matrice attraverso un grafo?"
-date: 2019-06-22T14:47:24+02:00
+title: "È possibile rappresentare una matrice attraverso un grafo?"
+date: 2019-07-01T00:20:16+02:00
 draft: false
 toc: false
 tags: ["post"]
 author: "anzo559"
 ---
-
-
-
 
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
 
@@ -23,7 +20,7 @@ Secondo la mia opinione, quanto descritto è quello che succede durante i corsi 
 
 Ma non è questo l'argomento che voglio trattare quest'oggi.  
 
- <h3 style="text-transform:uppercase">
+ <h3 class='section'>
 Ma che cosa è un grafo?
  </h3>
 
@@ -47,24 +44,22 @@ $$
 E = \\{e_1, e_2, \dots, e_t\\}
  $$
 
+ Come si può vedere nelle figure seguenti, la differenza tra un grafo non ordinato e uno ordinato è sostanziale.
+
 ![Unordered graph](/images/unordered-graph.jpg)
 <p class='caption'>Esempio di grafo non ordinato</p>
 
 ![Ordered graph](/images/ordered-graph.jpg)
 <p class='caption'>Esempio di grafo ordinato</p>
 
-Il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\) viene scritto come \\(e_k = (v_i, v_j)\\).
+Infatti, ll k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\), per un grafo ordinato, viene scritto come \\(e_k = (v_i, v_j),~i\neq j\\).
+
+<h4 class='section'>Alcune curiosità sulla teoria dei grafi</h4>
 
 La _teoria dei grafi_ vede la luce per la prima volta nel 1736, grazie a __Eulero__. Il matematico svizzero, infatti, risolse il problema dei _sette ponti di Königsberg_ utilizzando quella che sarebbe poi diventata la teoria dei grafi. Eulero si chiedeva se fosse possibile partire e arrivare nello stesso punto della città attraversando tutti i ponti una sola volta.  
 Grazie alle basi poste da Eulero, la teoria dei grafi si è evoluta ed è tutt'ora impiegata nella descrizione e nella risoluzione di _reti di acquedotti_ o in algoritmi per il calcolo del percorso (chiuso) più breve tra tutte le città del mondo (più info sulla soluzione potete trovarle [qui](http://www.math.uwaterloo.ca/tsp/world/)).
 
 La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che non esporrò, per non tediarvi con argomentazioni facilmente reperibili altrove.
-
-<h3 style="text-transform:uppercase">Ma quindi?</h3>
-
-Il titolo descrive alla perfezione ciò che è presente nelle righe che seguono: "è possibile rappresentare una matrice attraverso un grafo?"  
-La risposta è "sì, si può!"  
-E non solo: è anche possibile derivare una matrice da un grafo.
 
 ----------
 
@@ -75,4 +70,11 @@ La risposta è "sì, si può!"</h3>
 </div>
 
 -----------
-to be continued...
+
+<h3 class='section'>Ma quindi?</h3>
+
+Il titolo descrive alla perfezione ciò che è presente nelle righe che seguono: "è possibile rappresentare una matrice attraverso un grafo?"  
+La risposta è "sì, si può!"  
+E non solo: è anche possibile derivare una matrice da un grafo.
+
+<h4 class="section">To be continued</h4>
