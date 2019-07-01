@@ -15,7 +15,7 @@ MathJax.Hub.Config({
 <script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 <head>
-  <link rel='stylesheet' href='css/style.css'/>
+  <link rel='stylesheet' href='/css/style.css'/>
 </head>
 
 
