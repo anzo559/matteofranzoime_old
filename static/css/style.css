@@ -1,8 +1,3 @@
-* {
-  box-sizing: border-box;
-  margin: 0 auto;
-}
-
 .caption {
   text-align: center;
   font-size: .8em;
@@ -11,8 +6,8 @@
 }
 
 .spy {
-  /*background-color: #fff;*/
-  border: 5px dashed #bdc3c7;
+  border-top: 5px dashed #bdc3c7;
+  border-bottom: 5px dashed #7f8c8d;
   overflow: hidden;
   font-family: serif;
   width: 50%;
