@@ -6,10 +6,10 @@
 }
 
 .spy {
-  margin: 10px auto;
+  margin: 20px auto;
   box-sizing: border-box;
-  border-top: 5px dashed #7f8c8d;
-  border-bottom: 5px dashed #7f8c8d;
+  border-top: 5px dashed #979A9A;
+  border-bottom: 5px dashed #979A9A;
   overflow: hidden;
   font-family: serif;
   width: 50%;
