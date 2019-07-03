@@ -65,7 +65,7 @@ La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che 
 ------
 
 <div class='spy'>
-    <h3>"è possibile rappresentare una matrice attraverso un grafo?" La risposta è "sì, si può!"</h3>
+    <h3>"è possibile rappresentare una matrice attraverso un grafo?"<br/>La risposta è "sì, si può!"</h3>
 </div>
 
 ------
