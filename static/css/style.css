@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
 .caption {
   text-align: center;
   font-size: .8em;
@@ -5,12 +10,13 @@
   font-style: italic;
 }
 
- .spy  {
+.spy {
+  /*background-color: #fff;*/
+  border: 5px dashed #bdc3c7;
   overflow: hidden;
   font-family: serif;
-  margin:auto;
   width: 50%;
-  text-align: left;
+  text-align: center;
   text-transform: uppercase;
   color: #222f3e;
 }
