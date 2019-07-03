@@ -8,12 +8,12 @@
 .spy {
   margin: 0 auto;
   box-sizing: border-box;
-  border-top: 5px dashed #c6cddb;
-  border-bottom: 5px dashed #c6cddb;
+  border-top: 5px dashed #7f8c8d;
+  border-bottom: 5px dashed #7f8c8d;
   overflow: hidden;
   font-family: serif;
   width: 50%;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   color: #222f3e;
 }
