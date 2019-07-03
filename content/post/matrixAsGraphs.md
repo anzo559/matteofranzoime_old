@@ -62,13 +62,10 @@ Grazie alle basi poste da Eulero, la teoria dei grafi si è evoluta ed è tutt'o
 La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che non esporrò, per non tediarvi con argomentazioni facilmente reperibili altrove.
 
 
-------
-
 <div class='spy'>
     <h3>"è possibile rappresentare una matrice attraverso un grafo?"<br/>La risposta è "sì, si può!"</h3>
 </div>
 
-------
 
 <h3 class='section'>Ma quindi?</h3>
 
