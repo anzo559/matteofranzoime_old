@@ -4,7 +4,9 @@ date = "2019-03-05"
 tags = ["about"]
 draft = false
 +++
-{{< figure src="/images/photo_01.jpg" width="100%">}}
+
+{{< gallery-slider dir="/slideshow/" height="480px" width="1020">}}
+
 
 Mi chiamo Matteo Franzoi, sono uno studente di ingegneria civile presso l'Università degli Studi di Trento.
 Ho molte passioni: dallo sport alla tecnologia.

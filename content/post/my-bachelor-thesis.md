@@ -87,4 +87,4 @@ Il terzo e ultimo capitolo del documento riguarda l'applicazione della teoria de
 Una volta ricavata l'equazione indefinita di equilibrio dalla teoria dei fili (**Capitolo 2**) è sufficiente applicarla ai differenti casi, ricavando soluzioni molto interessanti.
 
 Consiglio al lettore, se interessato, di leggere l'elaborato e, nel caso avesse dubbi o volesse discutere di argomenti contenuti nell'elaborato, di scrivere un mail all'indirizzo  
-**[matteo.franzoi-1@studenti.unitn.it](mailto:matteo.franzoi-1@studenti.unitn.it)**
+**[info@matteofranzoi.me](mailto:info@matteofranzoi.me)**
