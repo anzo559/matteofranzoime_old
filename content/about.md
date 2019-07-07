@@ -5,7 +5,7 @@ tags = ["about"]
 draft = false
 +++
 
-{{< gallery-slider dir="/slideshow/" height="480px" width="1020">}}
+{{< gallery-slider dir="/slideshow/" height="640px" width="1020">}}
 
 
 Mi chiamo Matteo Franzoi, sono uno studente di ingegneria civile presso l'Università degli Studi di Trento.
