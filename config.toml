@@ -80,8 +80,3 @@ googleAnalytics = "UA-143388612-1"
     name = "Chi Sono"
     url = "about"
     weight = 20
-
-  [[imaging]]
-    resampleFilter = "box"
-    quality = 75
-    anchor = "smart"
