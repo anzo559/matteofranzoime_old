@@ -1,5 +1,5 @@
 baseURL = "https://matteofranzoi.me/"
-languageCode = "it-it"
+languageCode = "it-IT"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
 theme = "hermit"
@@ -53,7 +53,7 @@ googleAnalytics = "UA-143388612-1"
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/_matteofranzoi"
+    url = "https://instagram.com/akaanzo"
 
   [[params.social]]
     name = "facebook"
