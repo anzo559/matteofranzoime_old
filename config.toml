@@ -34,7 +34,7 @@ googleAnalytics = "UA-143388612-1"
   
   # Metadata mostly used in document's head
   # description = ""
-  images = ["images/mf.jpg"]
+ # images = ["images/mf.jpg"]
   # themeColor = "#494f5c"
   themeColor = "#555555"
 
