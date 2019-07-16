@@ -28,7 +28,7 @@ googleAnalytics = "UA-143388612-1"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  customCSS = ["/css/style.css", "/scss/_predefined.scss"]
+  customCSS = ["/css/style.css", "assets/scss/_predefined.scss"]
   customJS = ["/js/myscripts.js"]
   showReadingTime = true
   
