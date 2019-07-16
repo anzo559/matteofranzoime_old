@@ -30,7 +30,8 @@ googleAnalytics = "UA-143388612-1"
   dateformNumTime = "2006-01-02 15:04 -0700"
   customCSS = ["/css/style.css"]
   customJS = ["/js/myscripts.js"]
-
+  show_reading_time = true
+  
   # Metadata mostly used in document's head
   # description = ""
   images = ["images/mf.jpg"]
