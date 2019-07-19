@@ -100,6 +100,7 @@ Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) signi
 </div>
 
 <h3 class='section'>Ma perché è possibile questo?</h3>
+
 Formalmente, una matrice \\(\underline{\underline{M}}\\) è un "array" di dimensioni \\(n \times m\\), ma può essere anche vista come una funzione che prende valori da degli insiemi \\(X\\) e \\(Y\\) e riporta valori in \\(\mathbb{R}\\)
 $$
     M: X\times Y \longrightarrow  \mathbb{R}
