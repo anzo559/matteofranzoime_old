@@ -98,7 +98,7 @@ Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) signi
 
 <div class='spy'>
     <h3>
-    Formalmente, una matrice M è un "array" di dimensioni  <strong style="text-transform: lowercase;">n</strong> x <strong style="text-transform: lowercase;">m</strong> ma può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in $\mathbb{R}$
+    Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in R
     </h3>
 </div>
 
