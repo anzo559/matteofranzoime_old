@@ -12,6 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 googleAnalytics = "UA-143388612-1"
 # disqusShortname = "yourdiscussshortname"
+googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
 
 [author]
   name = "Matteo Franzoi"
@@ -35,7 +36,7 @@ googleAnalytics = "UA-143388612-1"
   # Metadata mostly used in document's head
   # description = ""
   # images = ["images/mf.jpg"]
-  themeColor = "#494f5c"
+  # themeColor = "#494f5c"
   # themeColor = "#607D8B"
 
   homeSubtitle = ""

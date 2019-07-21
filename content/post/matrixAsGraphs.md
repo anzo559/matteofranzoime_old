@@ -97,7 +97,9 @@ Proseguendo, considerando l'elemento \\(M_{21}\\) - che è posizionato sulla rig
 Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) significano che non sono presenti tratti che congiungono i nodi in esame.
 
 <div class='spy'>
-    <h3>Formalmente, una matrice \\(\underline{\underline{M}}\\) è un "array" di dimensioni <strong style='text-transform: lowercase;'>\\(n \times m\\)</strong>, ma può essere anche vista come una funzione che prende valori da degli insiemi \\(X\\) e \\(Y\\) e riporta valori in \\(\mathbb{R}\\)</h3>
+    <h3>
+    Formalmente, una matrice M è un "array" di dimensioni  <strong style="text-transform: lowercase;">n</strong> x <strong style="text-transform: lowercase;">m</strong> ma può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in $\mathbb{R}$
+    </h3>
 </div>
 
 <h3 class='section'>Ma perché è possibile questo?</h3>
