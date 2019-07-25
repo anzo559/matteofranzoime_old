@@ -3,21 +3,59 @@
   font-size: .8em;
   font-weight: bold;
   font-style: italic;
+  color: #909090;
+}
+
+.caption > a{
+  font-size: 1em;
+  color: #A9A9A9;
 }
 
 .spy {
   margin: 20px auto;
+  padding: 5px 10px;
+  justify-content: center;
   box-sizing: border-box;
-  border-top: 5px dashed #D0D3D4;
-  border-bottom: 5px dashed #D0D3D4;
+  border-top: 3px solid #909090;
+  border-bottom: 3px solid #909090;
   overflow: hidden;
-  font-family: serif;
+  font-family: 'Open Sans', serif;
+  font-size: 20px;
   width: 50%;
-  text-align: center;
   text-transform: uppercase;
   color: #A0D6C1;
 }
 
 .section {
   text-transform: uppercase;
+}
+
+.sourcebox {
+  box-sizing: border-box;
+  border-top: 3px solid #909090;
+  width: 55%;
+}
+
+.sourcetitle {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.source {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 12px;
+  width: 100%;
+}
+
+.source > ul {
+  list-style-type: bullet;
+  color: #909090;
+}
+
+.source  a {
+  color: #A9A9A9;
+  font-size: 1em;
 }

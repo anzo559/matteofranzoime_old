@@ -63,7 +63,7 @@ Grazie alle basi poste da Eulero, la teoria dei grafi si è evoluta ed è tutt'o
 La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che non esporrò, per non tediarvi con argomentazioni facilmente reperibili altrove.
 
 <div class='spy'>
-    <h3>"è possibile rappresentare una matrice attraverso un grafo?"<br/>La risposta è "sì, si può!"</h3>
+"è possibile rappresentare una matrice attraverso un grafo?"<br/>La risposta è "sì, si può!"
 </div>
 
 <h3 class='section'>Ma quindi?</h3>
@@ -97,9 +97,7 @@ Proseguendo, considerando l'elemento \\(M_{21}\\) - che è posizionato sulla rig
 Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) significano che non sono presenti tratti che congiungono i nodi in esame.
 
 <div class='spy'>
-    <h3>
     Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in R
-    </h3>
 </div>
 
 <h3 class='section'>Ma perché è possibile questo?</h3>
@@ -176,3 +174,16 @@ Come si può notare dal grafo a destra, nel grafo risultante i nodi interni \\(Y
 L'autore prosegue la trattazione descrivendo, ad esempio, le matrici simmetriche e trasposte e i relativi grafi, nonché applicando la teoria descritta ad elementi di probabilità che io non discuterò.
 
 Vi invito comunque a visitare il suo blog per trovare spunti riflessivi particolarmente interessanti ed ampliare le vostre conoscenze matematiche.
+
+<div class='sourcebox'>
+    <div class='sourcetitle'>
+        Fonti
+    </div>
+    <div class='source'>
+        <ul>
+        <li><a href='https://www.math3ma.com/blog/matrices-probability-graphs'>"Viewing Matrices & Probability as Graphs"</a> (Math3ma.com)</li>
+        <li><a href='https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8'>"A Gentle Introduction To Graph Theory"</a> (medium.com)</li>
+        <li><a href='http://www.science.unitn.it/probab/Mathmodels/article-grafi-noslide.pdf'>"Teoria dei grafi e applicazioni"</a> (science.unitn.it)</li>
+        <li><a href='https://en.wikipedia.org/wiki/Bipartite_graph'>"Bipartite graph"</a> (wikipedia.org)</li>
+    </div>
+</div>
