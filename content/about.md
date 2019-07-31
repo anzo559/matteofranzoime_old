@@ -8,10 +8,10 @@ draft = false
 {{< gallery-slider dir="/slideshow/" height="640px" width="1020">}}
 
 
-Mi chiamo Matteo Franzoi, sono uno studente di ingegneria civile presso l'Università degli Studi di Trento.
+Mi chiamo Matteo Franzoi, mi sono da poco laureato in ingegneria civile (triennale) e frequento tutt'ora il corso di laurea magistrale presso l'Università degli Studi di Trento.
 Ho molte passioni: dallo sport alla tecnologia.
 
-Lo sport che pratico lo si può capire dalla foto in alto: motocross. Sport che ho iniziato all'età di 7 anni e che mi ha accompagnato agonisticamente fino alla maggiore età. A 18 anni un brutto infortunio mi allontanato dalle gare per parecchio tempo, facendomi perdere quel desiderio di stare dietro al cancelletto di partenza. 
+Lo sport che pratico lo si può capire dalla foto in alto: motocross. Sport che ho iniziato all'età di 7 anni e che mi ha accompagnato agonisticamente fino alla maggiore età. A 18 anni un brutto infortunio mi ha allontanato dalle gare per parecchio tempo, facendomi perdere quel desiderio di stare dietro al cancelletto di partenza. 
 Fortunatamente la passione per lo sport non è scemata e continuo a praticarlo in modo un po' discontinuo.
 
 La passione per la tecnologia risale invece al mio primo smartphone, un telefono Android ovviamente, il Samsung Galaxy S2. Da lì, grazie a un amico che mi ha fatto conoscere la MIUI, è iniziata il mio interesse per il modding.
