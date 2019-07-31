@@ -1,6 +1,6 @@
 <script type="text/x-mathjax-config" async > MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 
-<script type="text/x-mathjax-config">
+<script type="text/x-mathjax-config" async>
          MathJax.Hub.Config({
            tex2jax: {
              inlineMath: [ ['$','$'], ["\\(","\\)"] ],
@@ -9,4 +9,4 @@
          });
 </script>
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" async></script>
