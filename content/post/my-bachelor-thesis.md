@@ -21,8 +21,6 @@ Nonostante lo stesso periodo storico in cui sono stati sviluppati, questi ponti 
 
 <picture>
     <source type="image/webp" srcset="/images/Ponte_Inca.webp">
-    <source type="image/jpg" srcset="/images/Ponte_Inca.jpg">
-    <img src='/images/Ponte_Inca.jpg' width='100%' alt="">
 </picture>
 <p class='caption'>Uno dei pochi ponti inca sopravvissuti</p>
 
@@ -30,8 +28,6 @@ A partire dalla rivoluzione industriale si ha un'evoluzione della fune, che dive
 
 <picture>
     <source type="image/webp" srcset="/images/Ponte_Tibetano_Oggi.webp">
-    <source type="image/jpg" srcset="/images/Ponte_Tibetano_Oggi.jpg">
-    <img src='/images/Ponte_Tibetano_Oggi.jpg' width='100%' alt="">
 </picture>
 <p class='caption'>Ponte tibetano moderno</p>
 

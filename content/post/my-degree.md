@@ -10,7 +10,7 @@ author: "anzo559"
 <picture>
     <source type="image/webp" srcset="/images/laurea_01.webp">
     <source type="image/jpg" srcset="/images/laurea_01.jpg">
-    <img src="/images/laurea_01.jpg" alt="">
+    <img src="/images/laurea_01.jpg" alt="La mia famiglia">
 </picture>
 <p class='caption'>La mia famiglia</p>
 
@@ -25,7 +25,7 @@ Non dico che sia giusto quello che ho fatto, ma cazzo se mi è piaciuto. L'adren
 <picture>
     <source type="image/webp" srcset="/images/laurea_02.webp">
     <source type="image/jpg" srcset="/images/laurea_02.jpg">
-    <img src='/images/laurea_02.jpg' alt="">
+    <img src='/images/laurea_02.jpg' alt="i miei amici">
 </picture>
 <p class='caption'>I miei amici</p>
 
