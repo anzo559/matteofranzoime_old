@@ -24,7 +24,13 @@ Ma non è questo l'argomento che voglio trattare quest'oggi.
 Ma che cosa è un grafo?
  </h3>
 
- [![Tipologie di grafo](/images/graph_type.jpeg)](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+<a href="https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8" target="_blank">
+    <picture>
+        <source type="image/webp" srcset="/images/graph_type.webp">
+        <source type="image/jpg" srcset="/images/graph_type.jpeg">
+        <img src='/images/graph_type.jpeg' width='100%' alt="Tipologie di grafo">
+    </picture>
+</a>
  <p class='caption'>Tipologie di grafo | Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
 
  Un __grafo__ è un insieme di `n` nodi tra loro connessi da `t` tratti (o archi) che possono essere _orientati_ (descritti da una direzione e un verso) o non orientati (di verso arbitrario).  
@@ -47,10 +53,18 @@ E = \\{e_1, e_2, \dots, e_t\\}
 
  Come si può vedere nelle figure seguenti, la differenza tra un grafo non ordinato e uno ordinato è sostanziale.
 
-![Unordered graph](/images/unordered-graph.jpg)
+<picture>
+    <source type="image/webp" srcset="/images/unordered-graph.webp">
+    <source type="image/jpg" srcset="/images/unordered-graph.jpeg">
+    <img src='/images/unordered-graph.jpeg' width='100%' alt="Unordered graph">
+</picture>
 <p class='caption'>Esempio di grafo non ordinato</p>
 
-![Ordered graph](/images/ordered-graph.jpg)
+<picture>
+    <source type="image/webp" srcset="/images/ordered-graph.webp">
+    <source type="image/jpg" srcset="/images/ordered-graph.jpeg">
+    <img src='/images/ordered-graph.jpeg' width='100%' alt="Ordered graph">
+</picture>
 <p class='caption'>Esempio di grafo ordinato</p>
 
 Infatti, il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\), per un grafo ordinato, viene scritto come \\(e_k = (v_i, v_j),~i\neq j\\).

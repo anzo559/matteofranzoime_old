@@ -19,12 +19,20 @@ La fune è uno degli elementi costruttivi più utilizzato nella storia, almeno i
 Nonostante i primi avvistamenti di fili di rame risalgano al 700 a.C., le prime applicazioni della fune avvengono durante il *XV* secolo con la comparsa dei primi **ponti inca** e dei famosi **ponti tibetani**.  
 Nonostante lo stesso periodo storico in cui sono stati sviluppati, questi ponti sono radicalmente differenti. Mentre in sudamerica gli *inca* costruivano le funi intrecciando delle corde, in Tibet il fisico e ingegnere *Tangtong Gyalpo* utilizzò delle lunghe catene in ghisa per comporre la struttura portante di quello che sarebbe diventato il primo ponte tibetano.
 
-<img src='/images/Ponte_Inca.jpg' width='100%'>
+<picture>
+    <source type="image/webp" srcset="/images/Ponte_Inca.webp">
+    <source type="image/jpg" srcset="/images/Ponte_Inca.jpg">
+    <img src='/images/Ponte_Inca.jpg' width='100%' alt="">
+</picture>
 <p class='caption'>Uno dei pochi ponti inca sopravvissuti</p>
 
 A partire dalla rivoluzione industriale si ha un'evoluzione della fune, che diventa un elemento composito formato dalla posa, in diverse configurazioni, di fili di acciaio. Applicando queste nuove tecnologie alle strutture civili, in particolare ai ponti, si ottengono delle costruzioni snelle, leggere ed estremamente funzionali.
 
-<img src='/images/Ponte_Tibetano_Oggi.jpg' width='100%'>
+<picture>
+    <source type="image/webp" srcset="/images/Ponte_Tibetano_Oggi.webp">
+    <source type="image/jpg" srcset="/images/Ponte_Tibetano_Oggi.jpg">
+    <img src='/images/Ponte_Tibetano_Oggi.jpg' width='100%' alt="">
+</picture>
 <p class='caption'>Ponte tibetano moderno</p>
 
 
