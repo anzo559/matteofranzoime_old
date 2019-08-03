@@ -22,7 +22,7 @@ googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
 
 [taxonomies]
   tag = "tags"
-  category = ""  # Categories are disabled by default.
+  category = "categories"  # Categories are disabled by default.
 
 [imaging]
   resampleFilter = "box"
