@@ -8,9 +8,9 @@ author: "anzo559"
 ---
 
 <picture>
-    <source type="image/webp" srcset="/images/laurea_01.webp">
-    <source type="image/jpg" srcset="/images/laurea_01.jpg">
-    <img src="/images/laurea_01.jpg" alt="La mia famiglia">
+    <source type="image/webp" srcset="/images/post/laurea_01.webp">
+    <source type="image/jpg" srcset="/images/post/laurea_01.jpg">
+    <img src="/images/post/laurea_01.jpg" alt="La mia famiglia">
 </picture>
 <p class='caption'>La mia famiglia</p>
 
@@ -23,9 +23,9 @@ Per recuperare il tempo perso ho dovuto studiare per mesi e mesi, dimenticandomi
 Non dico che sia giusto quello che ho fatto, ma cazzo se mi è piaciuto. L'adrenalina che si ha il giorno di un orale difficile è paragonabile a stare dietro al cancelletto di partenza.
 
 <picture>
-    <source type="image/webp" srcset="/images/laurea_02.webp">
-    <source type="image/jpg" srcset="/images/laurea_02.jpg">
-    <img src='/images/laurea_02.jpg' alt="i miei amici">
+    <source type="image/webp" srcset="/images/post/laurea_02.webp">
+    <source type="image/jpg" srcset="/images/post/laurea_02.jpg">
+    <img src='/images/post/laurea_02.jpg' alt="I miei amici">
 </picture>
 <p class='caption'>I miei amici</p>
 

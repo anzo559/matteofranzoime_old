@@ -3,7 +3,7 @@ languageCode = "it-IT"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
 theme = "hermit"
-# enableGitInfo = true
+enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -23,6 +23,11 @@ googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
 [taxonomies]
   tag = "tags"
   category = ""  # Categories are disabled by default.
+
+[imaging]
+  resampleFilter = "box"
+  quality = 75
+  anchor = "smart"
 
 [params]
   dateform        = "Jan 2, 2006"

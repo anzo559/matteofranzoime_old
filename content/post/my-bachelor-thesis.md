@@ -20,14 +20,18 @@ Nonostante i primi avvistamenti di fili di rame risalgano al 700 a.C., le prime 
 Nonostante lo stesso periodo storico in cui sono stati sviluppati, questi ponti sono radicalmente differenti. Mentre in sudamerica gli *inca* costruivano le funi intrecciando delle corde, in Tibet il fisico e ingegnere *Tangtong Gyalpo* utilizzò delle lunghe catene in ghisa per comporre la struttura portante di quello che sarebbe diventato il primo ponte tibetano.
 
 <picture>
-    <source type="image/webp" srcset="/images/Ponte_Inca.webp">
+    <source type="image/webp" srcset="/images/post/Ponte_Inca.webp">
+    <source type="image/jpg" srcset="/images/post/Ponte_Inca.jpg">
+    <img src="images/post/Ponte_Inca.jpg" alt="Ponte Inca">
 </picture>
 <p class='caption'>Uno dei pochi ponti inca sopravvissuti</p>
 
 A partire dalla rivoluzione industriale si ha un'evoluzione della fune, che diventa un elemento composito formato dalla posa, in diverse configurazioni, di fili di acciaio. Applicando queste nuove tecnologie alle strutture civili, in particolare ai ponti, si ottengono delle costruzioni snelle, leggere ed estremamente funzionali.
 
 <picture>
-    <source type="image/webp" srcset="/images/Ponte_Tibetano_Oggi.webp">
+    <source type="image/webp" srcset="/images/post/Ponte_Tibetano_Oggi.webp">
+    <source type="image/jpg" srcset="/images/post/Ponte_Tibetano_Oggi.jpg">
+    <img src="images/post/Ponte_Tibetano_Oggi.jpg" alt="Ponte tibetano moderno">
 </picture>
 <p class='caption'>Ponte tibetano moderno</p>
 

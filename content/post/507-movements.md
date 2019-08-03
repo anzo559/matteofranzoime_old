@@ -14,9 +14,9 @@ Matt Keveney, ideatore del portale `507 Movements`, ha scannerizzato e ovviament
 
 <a href="http://507movements.com/mm_228.html" target="_blank">
     <picture>
-        <source type="image/webp" srcset="/images/mm_228.webp">
-        <source type="image/png" srcset="/images/mm_228.png">
-        <img src='/images/mm_228.png' width='100%' alt="">
+        <source type="image/webp" srcset="/images/post/mm_228.webp">
+        <source type="image/png" srcset="/images/post/mm_228.png">
+        <img src='/images/post/mm_228.png' width='100%' alt="">
     </picture>
 </a>
 <p class='caption'>No. 228 - Chain and Pulley| Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
@@ -25,9 +25,9 @@ A causa dell'enorme mole di lavoro necessaria, non tutti i movimenti sono animat
 
 <a href="http://507movements.com/mm_090.html" target="_blank">
     <picture>
-        <source type="image/webp" srcset="/images/mm_090.webp">
-        <source type="image/png" srcset="/images/mm_090.png">
-        <img src='/images/mm_090.png' width='100%' alt="">
+        <source type="image/webp" srcset="/images/post/mm_090.webp">
+        <source type="image/png" srcset="/images/post/mm_090.png">
+        <img src='/images/post/mm_090.png' width='100%' alt="">
     </picture>
 </a>
 <p class='caption'>No. 90 | Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
@@ -35,4 +35,3 @@ A causa dell'enorme mole di lavoro necessaria, non tutti i movimenti sono animat
 Le immagini statiche sono liberamente condivisibili (citandone la fonte!) mentre le animazioni sono tutt'oggi sotto il copyright di 507 Movements e non possono essere riprodotte o utilizzate senza il consenso del proprietario.
 
 Consiglio comunque ai fanatici di esplorare il sito, in particolar modo le immagini animate, e constatare lo straordinario lavoro fatto da Matt.
-

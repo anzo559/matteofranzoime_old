@@ -26,9 +26,9 @@ Ma che cosa è un grafo?
 
 <a href="https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8" target="_blank">
     <picture>
-        <source type="image/webp" srcset="/images/graph_type.webp">
-        <source type="image/jpg" srcset="/images/graph_type.jpeg">
-        <img src='/images/graph_type.jpeg' width='100%' alt="Tipologie di grafo">
+        <source type="image/webp" srcset="/images/post/graph_type.webp">
+        <source type="image/jpg" srcset="/images/post/graph_type.jpeg">
+        <img src='/images/post/graph_type.jpeg' width='100%' alt="Tipologie di grafo">
     </picture>
 </a>
  <p class='caption'>Tipologie di grafo | Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
@@ -54,16 +54,16 @@ E = \\{e_1, e_2, \dots, e_t\\}
  Come si può vedere nelle figure seguenti, la differenza tra un grafo non ordinato e uno ordinato è sostanziale.
 
 <picture>
-    <source type="image/webp" srcset="/images/unordered-graph.webp">
-    <source type="image/jpg" srcset="/images/unordered-graph.jpeg">
-    <img src='/images/unordered-graph.jpeg' width='100%' alt="Unordered graph">
+    <source type="image/webp" srcset="/images/post/unordered-graph.webp">
+    <source type="image/jpg" srcset="/images/post/unordered-graph.jpeg">
+    <img src='/images/post/unordered-graph.jpeg' width='100%' alt="Unordered graph">
 </picture>
 <p class='caption'>Esempio di grafo non ordinato</p>
 
 <picture>
-    <source type="image/webp" srcset="/images/ordered-graph.webp">
-    <source type="image/jpg" srcset="/images/ordered-graph.jpeg">
-    <img src='/images/ordered-graph.jpeg' width='100%' alt="Ordered graph">
+    <source type="image/webp" srcset="/images/post/ordered-graph.webp">
+    <source type="image/jpg" srcset="/images/post/ordered-graph.jpeg">
+    <img src='/images/post/ordered-graph.jpeg' width='100%' alt="Ordered graph">
 </picture>
 <p class='caption'>Esempio di grafo ordinato</p>
 
