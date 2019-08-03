@@ -46,7 +46,7 @@ googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
 
   homeSubtitle = ""
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = ""images/background/mf.webp"  # Homepage background-image URL
+  bgImg = ""images/background/mf.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/anzo559/website/commit/"
