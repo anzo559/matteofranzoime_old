@@ -4,12 +4,8 @@ date: 2019-07-20T01:11:16+02:00
 draft: false
 toc: false
 tags: ["post"]
-author: "anzo559"
+description: "Cosa è un grafo? Rappresentare una matrice attraverso un grafo"
 ---
-
-<head>
-    <meta name="Description" content="Cosa è un grafo? Rappresentare una matrice attraverso un grafo">
-</head>
 
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
 

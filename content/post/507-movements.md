@@ -3,11 +3,8 @@ title: "507 Movements"
 date: 2019-04-12T00:22:59+02:00
 draft: false
 tags: ["post"]
+description: "Henry T. Brown's 507 Movements"
 ---
-
-<head>
-    <meta name="Description" content="Henry T. Brown's 507 Movements">
-</head>
 
 Qualche settimana fa, grazie a [Riccardo Palombo](http://riccardo.im), ho scoperto questo magnifico portale, perfetto per i fanatici della meccanica (come il sottoscritto): __[507 Movements](http://507movements.com/)__.
 

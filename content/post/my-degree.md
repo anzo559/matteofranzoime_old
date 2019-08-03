@@ -4,12 +4,8 @@ date: 2019-03-05
 draft: false
 toc: false
 tags: ["post"]
-author: "anzo559"
+description: "Laurea, ingegneria civile, Università degli Studi di Trento"
 ---
-
-<head>
-    <meta name="Description" content="Laurea, ingegneria civile, Università degli Studi di Trento">
-</head>
 
 <picture>
     <source type="image/webp" srcset="/images/post/laurea_01.webp">
