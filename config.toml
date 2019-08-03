@@ -39,7 +39,7 @@ googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
   showReadingTime = true
   
   # Metadata mostly used in document's head
-  # description = ""
+  description = "Il blog personale di Matteo Franzoi"
   # images = ["images/background/mf.webp"]
   # themeColor = "#494f5c"
   # themeColor = "#607D8B"
