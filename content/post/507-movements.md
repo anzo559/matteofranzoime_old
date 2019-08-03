@@ -5,6 +5,10 @@ draft: false
 tags: ["post"]
 ---
 
+<head>
+    <meta name="Description" content="Henry T. Brown's 507 Movements">
+</head>
+
 Qualche settimana fa, grazie a [Riccardo Palombo](http://riccardo.im), ho scoperto questo magnifico portale, perfetto per i fanatici della meccanica (come il sottoscritto): __[507 Movements](http://507movements.com/)__.
 
 

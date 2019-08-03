@@ -6,6 +6,10 @@ tags: ["post"]
 author: "anzo559"
 ---
 
+<head>
+    <meta name="Description" content="Tesi, La teoria dei fili, fune nell'ingegneria civile">
+</head>
+
 L'elaborato che ho esposto [durante la mia laurea](/post/my-degree) tratta la **teoria dei fili** con elementi di storia e applicazione alle strutture civili.
 
 In questa pagina descriverò brevemente i concetti contenuti nella tesi che potete visualizzare e scaricare gratuitamente a [questo link](https://osf.io/9zgdc/).

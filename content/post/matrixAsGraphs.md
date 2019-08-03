@@ -7,6 +7,10 @@ tags: ["post"]
 author: "anzo559"
 ---
 
+<head>
+    <meta name="Description" content="Cosa è un grafo? Rappresentare una matrice attraverso un grafo">
+</head>
+
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
 
 Qualche tempo fa, grazie al [blog](https://abouthydrology.blogspot.com) del _Prof. Riccardo Rigon_ - professore ordinario presso il Dipartimento di Ingegneria Civile, Ambientale e Meccanica di Trento, sono venuto a conoscenza di [Math3ma](https://math3ma.com).  

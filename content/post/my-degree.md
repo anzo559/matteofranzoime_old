@@ -7,6 +7,10 @@ tags: ["post"]
 author: "anzo559"
 ---
 
+<head>
+    <meta name="Description" content="Laurea, ingegneria civile, Università degli Studi di Trento">
+</head>
+
 <picture>
     <source type="image/webp" srcset="/images/post/laurea_01.webp">
     <source type="image/jpg" srcset="/images/post/laurea_01.jpg">
