@@ -26,6 +26,8 @@
 	{{- if templates.Exists "partials/extra-head.html" -}}
 	{{ partial "extra-head.html" . }}
 	{{- end }}
+	<!--..............Description.................-->
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
 </head>
 
 <body id="page">
