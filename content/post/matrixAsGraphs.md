@@ -1,6 +1,7 @@
 ---
 title: "È possibile rappresentare una matrice attraverso un grafo?"
 date: 2019-07-20T01:11:16+02:00
+readingtime: 7
 draft: false
 toc: false
 tags: ["post"]

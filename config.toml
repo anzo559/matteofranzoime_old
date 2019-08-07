@@ -1,5 +1,5 @@
 baseURL = "https://matteofranzoi.me/"
-languageCode = "it-IT"
+languageCode = "it"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
 theme = "hermit"
@@ -30,8 +30,8 @@ googlefonts = "https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
   anchor = "smart"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   customCSS = ["/css/style.css", "/assets/scss/_predefined.scss"]

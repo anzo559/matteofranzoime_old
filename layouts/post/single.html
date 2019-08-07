@@ -48,7 +48,14 @@ MathJax.Hub.Config({
 	<main class="site-main section-inner animated fadeIn faster">
 		<article class="thin">
 			<header class="post-header">
-				<div class="post-meta"><span>{{ .Date.Format .Site.Params.dateform }}</span></div>
+				<div class="post-meta"><span>{{ .Date.Format .Site.Params.dateform }}</span>
+					<br/>
+					<span>Tempo di lettura: {{.ReadingTime}}
+					{{ if eq .ReadingTime 1 }} minuto
+					{{ else }} minuti
+					{{ end }}
+					</span>
+				</div>
 				<h1>{{ .Title }}</h1>
 			</header>
 			<div class="content">
