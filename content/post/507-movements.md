@@ -20,7 +20,7 @@ Matt Keveney, ideatore del portale `507 Movements`, ha scannerizzato e ovviament
         <img src='/images/post/mm_228.png' width='100%' alt="">
     </picture>
 </a>
-<p class='caption'>No. 228 - Chain and Pulley| Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
+<p class='caption'>No. 228 - Chain and Pulley| Fonte: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
 
 A causa dell'enorme mole di lavoro necessaria, non tutti i movimenti sono animati. È comunque facile distinguerli grazie al fatto che le immagini animate sono _colorate_, mentre le scansioni sono in bianco e nero. Anche per le animazioni è presente la corrispondente immagine statica.
 
@@ -31,7 +31,7 @@ A causa dell'enorme mole di lavoro necessaria, non tutti i movimenti sono animat
         <img src='/images/post/mm_090.png' width='100%' alt="">
     </picture>
 </a>
-<p class='caption'>No. 90 | Source: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
+<p class='caption'>No. 90 | Fonte: <a href="http://507movements.com/", target = "_blank">507movements.com</a></p>
 
 Le immagini statiche sono liberamente condivisibili (citandone la fonte!) mentre le animazioni sono tutt'oggi sotto il copyright di 507 Movements e non possono essere riprodotte o utilizzate senza il consenso del proprietario.
 

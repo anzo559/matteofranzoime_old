@@ -31,7 +31,7 @@ Ma che cosa è un grafo?
         <img src='/images/post/graph_type.jpeg' width='100%' alt="Tipologie di grafo">
     </picture>
 </a>
- <p class='caption'>Tipologie di grafo | Source: <a href="http://medium.com", target = "_blank">medium.com</a></p>
+ <p class='caption'>Tipologie di grafo | Fonte: <a href="http://medium.com", target = "_blank">medium.com</a></p>
 
  Un __grafo__ è un insieme di `n` nodi tra loro connessi da `t` tratti (o archi) che possono essere _orientati_ (descritti da una direzione e un verso) o non orientati (di verso arbitrario).  
  Un grafo si differenzia da un "albero" (`tree`) principalmente perché quest'ultimo è definito da un verso; mi spiego meglio: in un albero, *ogni vertice ha un nodo precedente e un nodo successivo* che ne definiscono il *verso*. Inoltre, ogni nodo può avere solamente un nodo, passatemi il termine, "padre" (o genitore). Esiste quindi *uno e uno solo* nodo di partenza (`root`); esiste, quindi, una gerarchia per i nodi. Questo non accade in un grafo, che per come è definito non ha alcun nodo _root_.  
@@ -90,7 +90,7 @@ L'idea di Tai-Danae Bradley è che _ogni matrice può essere rappresentata da un
 
 ![Bigraph](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Biclique_K_3_5.svg/330px-Biclique_K_3_5.svg.png)
 <div class='caption'>
-    Esempio di bigraph | Source: <a href="https://en.wikipedia.org/wiki/Bipartite_graph">Wikipedia</a>
+    Esempio di bigraph | Fonte: <a href="https://en.wikipedia.org/wiki/Bipartite_graph">Wikipedia</a>
 </div>
 
 Per un grafo bipartito, allora vale
@@ -135,7 +135,7 @@ La seguente immagine riassume quanto appena scritto.
 
 ![Mij_element](https://uploads-ssl.webflow.com/5b1d427ae0c922e912eda447/5c7eda5fdd9637358da070a1_pic3.jpg)
 <div class='caption'>
-    Possibile rappresentazione degli elementi della matrice | Source: <a href='https://www.math3ma.com/blog/matrices-probability-graphs'>Math3ma.com</a>
+    Possibile rappresentazione degli elementi della matrice | Fonte: <a href='https://www.math3ma.com/blog/matrices-probability-graphs'>Math3ma.com</a>
 </div>
 
 E questo è tutto per quanto rigurda la rappresentazione di una matrice come grafo.  
@@ -148,7 +148,7 @@ Si comprende meglio analizzando la seguente figura:
 
 ![matrix_multiplication](https://uploads-ssl.webflow.com/5b1d427ae0c922e912eda447/5c7de09a2121fc6c13ed3bd5_pic5.jpg)
 <div class='caption'>
-    Corrispondenza tra prodotto fra matrici e grafi | Source: <a href='https://www.math3ma.com/blog/matrices-probability-graphs'>Math3ma.com</a>
+    Corrispondenza tra prodotto fra matrici e grafi | Fonte: <a href='https://www.math3ma.com/blog/matrices-probability-graphs'>Math3ma.com</a>
 </div>
 
 Nella figura sono presenti due matrici: \\(\underline{\underline{M}}\\) e \\(\underline{\underline{N}}\\) tali che
