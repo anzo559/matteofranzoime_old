@@ -28,9 +28,9 @@
 	{{- end }}
 	<!--..............Description.................-->
 	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
-<!--................................................-->
+<!--..................Cookie Consent Script..............................-->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-<!--................................................-->
+<!--...................End Cookie Consent Script.............................-->
 </head>
 
 <body id="page">
@@ -44,20 +44,29 @@
 	{{ partial "extra-foot.html" . }}
 	{{- end }}
 
-<!--......................................................-->
+<!--.....................Cookie Consent HTML.................................-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
-      "background": "#000"
+      "background": "#3b3e48",
+      "text": "#e8eef2"
     },
     "button": {
-      "background": "#f1d600"
+      "background": "#a0d6c1"
     }
+  },
+  "theme": "edgeless",
+  "position": "top",
+  "content": {
+    "message": "Questo sito fa uso di cookie per migliorare l’esperienza di navigazione degli utenti e per raccogliere informazioni sull’utilizzo del sito stesso. ",
+    "dismiss": "Accetta",
+    "link": "Per saperne di più",
+    "href": "https://ec.europa.eu/info/cookies_it"
   }
 });
 </script>
-<!--......................................................-->
+<!--.....................End Cookie Consent HTML.................................-->
 </body>
 </html>
