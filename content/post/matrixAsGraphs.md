@@ -110,8 +110,8 @@ Il valore del lato è così calcolato: si consideri ad esempio l'elemento \\(M_{
 Proseguendo, considerando l'elemento \\(M_{21}\\) - che è posizionato sulla riga \\(2\\) e sulla colonna \\(1\\) e collega il __secondo nodo__ verde con il __primo nodo__ rosso. L'etichetta del tratto considerato è il valore corrispondente a \\(M_{21}\\) (i.e. \\(4\\)).  
 Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) significano che non sono presenti tratti che congiungono i nodi in esame.
 
-<div class='spy'>
-    Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in R
+><div class='spy'>
+ Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in R
 </div>
 
 <h3 class='section'>Ma perché è possibile questo?</h3>
