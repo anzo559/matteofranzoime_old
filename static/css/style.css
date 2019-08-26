@@ -26,6 +26,8 @@
   justify-content: flex-start;
   font-size: 18px;
   padding-top: 10px;
+  color: rgb(37, 37, 37);
+  font-weight: bold;
 }
 
 .source {
