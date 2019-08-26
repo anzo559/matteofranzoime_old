@@ -7,6 +7,8 @@ tags: ["post"]
 description: "Cosa è un grafo? Rappresentare una matrice attraverso un grafo"
 ---
 
+<hr>
+
 Prima di concentrarmi sulla domanda presente nel titolo, vorrei fare una premessa. 
 
 Qualche tempo fa, grazie al [blog](https://abouthydrology.blogspot.com) del _Prof. Riccardo Rigon_ - professore ordinario presso il Dipartimento di Ingegneria Civile, Ambientale e Meccanica di Trento, sono venuto a conoscenza di [Math3ma](https://math3ma.com).  
@@ -20,9 +22,7 @@ Secondo la mia opinione, quanto descritto è quello che succede durante i corsi 
 
 Ma non è questo l'argomento che voglio trattare quest'oggi.  
 
- <h3 class='section'>
-Ma che cosa è un grafo?
- </h3>
+### Ma che cosa è un grafo?
 
 <a href="https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8" target="_blank">
     <picture>
@@ -69,20 +69,24 @@ E = \\{e_1, e_2, \dots, e_t\\}
 
 Infatti, il k-esimo tratto che congiunge i nodi \\(i\\) e \\(j\\), per un grafo ordinato, viene scritto come \\(e_k = (v_i, v_j),~i\neq j\\).
 
-<h4 class='section'>Alcune curiosità sulla teoria dei grafi</h4>
+#### Alcune curiosità sulla teoria dei grafi
 
 La _teoria dei grafi_ vede la luce per la prima volta nel 1736, grazie a __Eulero__. Il matematico svizzero, infatti, risolse il problema dei _sette ponti di Königsberg_ utilizzando quella che sarebbe poi diventata la teoria dei grafi. Eulero si chiedeva se fosse possibile partire e arrivare nello stesso punto della città attraversando tutti i ponti una sola volta.  
 Grazie alle basi poste da Eulero, la teoria dei grafi si è evoluta ed è tutt'ora impiegata nella descrizione e nella risoluzione di _reti di acquedotti_ o in algoritmi per il calcolo del percorso (chiuso) più breve tra tutte le città del mondo (più info sulla soluzione potete trovarle [qui](http://www.math.uwaterloo.ca/tsp/world/)).
 
 La teoria dei grafi è - come ogni teoria matematica - descritta da teoremi che non esporrò, per non tediarvi con argomentazioni facilmente reperibili altrove.
 
-<div class='spy'>
-"è possibile rappresentare una matrice attraverso un grafo?"<br/>La risposta è "sì, si può!"
-</div>
 
-<h3 class='section'>Ma quindi?</h3>
+> <span style="text-transform: uppercase">è</span> possibile rappresentare una matrice attraverso un grafo?
+> 
+> La risposta è: `sì, si può!`
 
-Il titolo descrive alla perfezione ciò che è presente nelle righe che seguono: "è possibile rappresentare una matrice attraverso un grafo?"  
+
+
+
+### Ma quindi?
+
+Il titolo descrive alla perfezione ciò che è presente nelle righe che seguono: è possibile rappresentare una matrice attraverso un grafo?"  
 La risposta è "sì, si può!"  
 E non solo: è anche possibile derivare una matrice da un grafo.
 
@@ -110,11 +114,10 @@ Il valore del lato è così calcolato: si consideri ad esempio l'elemento \\(M_{
 Proseguendo, considerando l'elemento \\(M_{21}\\) - che è posizionato sulla riga \\(2\\) e sulla colonna \\(1\\) e collega il __secondo nodo__ verde con il __primo nodo__ rosso. L'etichetta del tratto considerato è il valore corrispondente a \\(M_{21}\\) (i.e. \\(4\\)).  
 Al contrario, i valori nulli della matrice \\(\underline{\underline{M}}\\) significano che non sono presenti tratti che congiungono i nodi in esame.
 
-><div class='spy'>
- Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi X e Y e riporta valori in R
-</div>
+> Formalmente, una matrice può essere anche vista come una funzione che prende valori da degli insiemi \\(\mathbf{X}\\) e \\(\mathbf{Y}\\) e riporta valori in \\(\mathbb{R}\\)
 
-<h3 class='section'>Ma perché è possibile questo?</h3>
+
+### Ma perché è possibile questo?
 
 Formalmente, una matrice \\(\underline{\underline{M}}\\) è un "array" di dimensioni \\(n \times m\\), ma può essere anche vista come una funzione che prende valori da degli insiemi \\(X\\) e \\(Y\\) e riporta valori in \\(\mathbb{R}\\)
 $$
@@ -140,7 +143,7 @@ La seguente immagine riassume quanto appena scritto.
 
 E questo è tutto per quanto rigurda la rappresentazione di una matrice come grafo.  
 
-<h3 class='section'>Prodotto tra matrici</h3>
+### Prodotto tra matrici
 
 I medesimi concetti possono essere applicati al prodotto tra matrici, che corrisponde a _percorrere tutti i possibili percorsi_ che collegano i due nodi.
 
@@ -183,7 +186,7 @@ $$
 che corrisponde al valore dell'elemento sulla prima riga e sulla prima colonna della matrice prodotto e quindi al valore del tratto che collega \\(x_1\\) a \\(z_1\\).  
 Come si può notare dal grafo a destra, nel grafo risultante i nodi interni \\(Y\\) collassano, ottenendo effettivamente il grafo che corrisponde a una matrice di dimensioni \\(3 \times 2\\).
 
-<h3 class = 'section'>Altre applicazioni</h3>
+#### Altre applicazioni
 
 L'autore prosegue la trattazione descrivendo, ad esempio, le matrici simmetriche e trasposte e i relativi grafi, nonché applicando la teoria descritta ad elementi di probabilità che io non discuterò.
 
