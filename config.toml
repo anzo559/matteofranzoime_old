@@ -1,5 +1,5 @@
 # baseURL = "https://matteofranzoi.me/"
-baseURL = "matteofranzoi.netlify.com"
+baseURL = "/"
 languageCode = "it"
 defaultContentLanguage = "it"
 title = "Matteo Franzoi"
