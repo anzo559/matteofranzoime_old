@@ -30,5 +30,3 @@ Non dico che sia giusto quello che ho fatto, ma cazzo se mi è piaciuto. L'adren
 <p class='caption'>I miei amici</p>
 
 Chiudo il mio non-discorso ringraziando tutti quelli che mi sono stati vicini in questi anni: ovviamente i miei genitori, senza cui tutto questo non sarebbe stato possibile, mia sorella, i miei amici, i miei colleghi di corso, i docenti, ma soprattutto ringrazio me stesso per il lavoro svolto. 
-
-{{<instagram Buiy3Bnj-Xw>}}
